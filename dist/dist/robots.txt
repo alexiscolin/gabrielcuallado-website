@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gabriel-cuallado.com/sitemap.xml
