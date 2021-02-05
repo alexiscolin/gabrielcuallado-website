@@ -5,9 +5,9 @@
     <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff4290c78-8fa3-43dd-88b0-48b3c3a2d54f%2FFAVICON.png?table=block&id=7881eef1-b1b0-40e8-9b47-6a3049c11847&width=250&userId=1fa28ab1-006e-40e3-9651-528ab6e2bf73&cache=v2" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Site internet officiel du photographe Gabriel Cuallado</h3>
-  <p align="center">Le repo contient les fichiers buildés et créés par CI à destination de Netlify.</p>
-  <p align="center">❤️ ThreeJS - HUGO - GSAP et bien plus ❤️</p>
+  <h3 align="center">Gabriel Cuallado official website</h3>
+  <p align="center">This repository hosts CI builded files ready for publication.</p>
+  <p align="center">❤️ ThreeJS - HUGO - GSAP and many more ❤️</p>
 </p>
 
 
@@ -24,4 +24,4 @@
 - **Design** : Bolk 
 - **Code** : de jaune et de bleu
 
-Pas de licence Open Source sur le projet
+No LICENSE available
