@@ -6,8 +6,8 @@
   </a>
 
   <h3 align="center">Site internet officiel du photographe Gabriel Cuallado</h3>
-  <p align="center">Le repo contient les fichiers buildés et créés par CI.</p>
-  <p align="center">ThreeJS - HUGO - GSAP et bien plus</p>
+  <p align="center">Le repo contient les fichiers buildés et créés par CI à destination de Netlify.</p>
+  <p align="center">❤️ ThreeJS - HUGO - GSAP et bien plus ❤️</p>
 </p>
 
 
@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://media-exp1.licdn.com/dms/image/C4D2DAQHY7RLmkjl7Ag/profile-treasury-image-shrink_1280_1280/0/1611344143292?e=1612634400&v=beta&t=PKUwZrPdatVB3ftt_i9TSYdrRO7EvBz6SQ4kV03UwE8)
+![site-screenshot](https://media-exp1.licdn.com/dms/image/C4D2DAQHY7RLmkjl7Ag/profile-treasury-image-shrink_1280_1280/0/1611344143292?e=1612634400&v=beta&t=PKUwZrPdatVB3ftt_i9TSYdrRO7EvBz6SQ4kV03UwE8)
 
 
 
