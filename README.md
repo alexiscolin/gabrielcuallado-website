@@ -21,6 +21,7 @@
 
 <!-- LICENSE -->
 ## License
-**Design**: Bolk –- **Code**: de jaune et de bleu
+- **Design** : Bolk 
+- **Code** : de jaune et de bleu
 
 Pas de licence Open Source sur le projet
