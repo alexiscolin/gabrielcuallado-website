@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![site-screenshot](https://media-exp1.licdn.com/dms/image/C4D2DAQHY7RLmkjl7Ag/profile-treasury-image-shrink_1280_1280/0/1611344143292?e=1612634400&v=beta&t=PKUwZrPdatVB3ftt_i9TSYdrRO7EvBz6SQ4kV03UwE8)
+![site-screenshot](https://files.de-jaune-et-de-bleu.com/img/github/cuallado/1611344143292.jpg)
 
 
 
