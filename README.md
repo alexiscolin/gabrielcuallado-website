@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![site-screenshot](https://files.de-jaune-et-de-bleu.com/img/github/cuallado/1611344143292.jpg)
+![site-screenshot](https://files.jaunebleu.co/img/github/cuallado/1611344143292.jpg)
 
 
 
